@@ -1,6 +1,6 @@
 {
   "name": "@sugbosuite/zener",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Zener blends an intuitive developer experience with refined aesthetics, giving creators the power to ship seamless, enterprise-grade interfaces.",
   "main": "min/zener.min.css",
   "style": "min/zener.min.css",
