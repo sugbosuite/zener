@@ -1,25 +1,25 @@
-.skeleton-primary {
-  animation: skeleton-primary 1.15s infinite;
-  -webkit-animation: skeleton-primary 1.15s infinite;
+.skeleton-1 {
+  animation: skeleton-1 1.15s infinite;
+  -webkit-animation: skeleton-1 1.15s infinite;
   background: linear-gradient( 90deg, var(--skeleton-adaptive) 30%, var(--skeleton-loader-adaptive) 38%, var(--skeleton-loader-adaptive) 40%, var(--skeleton-adaptive) 48% ); background-size: 200% 100%; background-position: 100% 0;
 }
 
-.skeleton-secondary {
-  animation: skeleton-secondary 1.15s infinite;
-  -webkit-animation: skeleton-secondary 1.15s infinite;
+.skeleton-2 {
+  animation: skeleton-2 1.15s infinite;
+  -webkit-animation: skeleton-2 1.15s infinite;
   background: linear-gradient( 120deg, var(--skeleton-adaptive) 30%, var(--skeleton-loader-adaptive) 38%, var(--skeleton-loader-adaptive) 40%, var(--skeleton-adaptive) 48% );
   background-size: 200% 100%;
   background-position: 100% 0;
 }
 
-.skeleton-tertiary {
-  animation: skeleton-tertiary 0.38s linear infinite alternate;
-  -webkit-animation: skeleton-tertiary 0.38s linear infinite alternate;
+.skeleton-3 {
+  animation: skeleton-3 0.38s linear infinite alternate;
+  -webkit-animation: skeleton-3 0.38s linear infinite alternate;
 }
 
-@keyframes skeleton-primary   { 100% { background-position: -100% 0; } }
-@keyframes skeleton-secondary { 100% { background-position: -100% 0; } }
-@keyframes skeleton-tertiary  {
+@keyframes skeleton-1 { 100% { background-position: -100% 0; } }
+@keyframes skeleton-2 { 100% { background-position: -100% 0; } }
+@keyframes skeleton-3 {
   0%   { background-color: var(--skeleton-adaptive); }
   100% { background-color: var(--skeleton-loader-adaptive); }
 }
@@ -30,10 +30,9 @@
 
 .progress-indeterminate {
   position: relative;
-  height: 3px;
+  height: 4px;
   background-color: var(--primary-translucent);
   overflow: hidden;
-  border-radius: 100px;
 }
 
 .progress-indeterminate-bar {

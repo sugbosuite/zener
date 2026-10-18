@@ -243,12 +243,12 @@
 .opacity-95  { opacity: 0.95; }
 .opacity-100 { opacity: 1;    }
 
-.shadow-primary    { box-shadow: var(--shadow-primary);    }
-.shadow-secondary  { box-shadow: var(--shadow-secondary);  }
-.shadow-tertiary   { box-shadow: var(--shadow-tertiary);   }
-.shadow-quaternary { box-shadow: var(--shadow-quaternary); }
-.shadow-quinary    { box-shadow: var(--shadow-quinary);    }
-.shadow-senary     { box-shadow: var(--shadow-senary);     }
+.shadow-1 { box-shadow: var(--shadow-1); }
+.shadow-2 { box-shadow: var(--shadow-2); }
+.shadow-3 { box-shadow: var(--shadow-3); }
+.shadow-4 { box-shadow: var(--shadow-4); }
+.shadow-5 { box-shadow: var(--shadow-5); }
+.shadow-6 { box-shadow: var(--shadow-6); }
 
 .bottom-nav-shadow-primary   { box-shadow: var(--bottom-nav-shadow-primary);   }
 .bottom-nav-shadow-secondary { box-shadow: var(--bottom-nav-shadow-secondary); }

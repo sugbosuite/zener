@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
-  --font-inter:      'Inter', system-ui, sans-serif;
-  --font-roboto:     'Roboto', system-ui, sans-serif;
+  --font-inter:      'Inter',      system-ui, sans-serif;
+  --font-roboto:     'Roboto',     system-ui, sans-serif;
   --font-space-mono: 'Space Mono', monospace;
-
+  
   --font-size-xxs:  0.625rem;
   --font-size-xs:   0.688rem;
   --font-size-s:    0.719rem;

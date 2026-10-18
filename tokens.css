@@ -4,11 +4,11 @@
 /* 3. typography.var.css → Font families, scales, text hierarchy rules.       */
 /* 4. shadow.var.css     → Elevation presets, depth, shadow tokens.           */
 /* 5. radius.var.css     → Border radius presets for consistent rounding.     */
-@import "./vars/appearance.var.css";
-@import "./vars/icon.var.css";
-@import "./vars/typography.var.css";
-@import "./vars/shadow.var.css";
-@import "./vars/radius.var.css";
+@import 'vars/appearance.var.css';
+@import 'vars/icon.var.css';
+@import 'vars/typography.var.css';
+@import 'vars/shadow.var.css';
+@import 'vars/radius.var.css';
 
 /* UTILITIES: Reusable helpers for layout, spacing, typography, and more. */
 /* 6. animations.util.css  → Motion presets and keyframes.                */
@@ -23,16 +23,16 @@
 /* 15. spacing.util.css    → Margin, padding, and gap utilities.          */
 /* 16. transforms.util.css → Scale, rotate, skew, transform utilities.    */
 /* 17. typography.util.css → Text alignment, weight, size, responsive.    */
-@import "./utils/animations.util.css";
-@import "./utils/appearance.util.css";
-@import "./utils/borders.util.css";
-@import "./utils/components.util.css";
-@import "./utils/cursor.util.css";
-@import "./utils/dimensions.util.css";
-@import "./utils/global.util.css";
-@import "./utils/layout.util.css";
-@import "./utils/position.util.css";
-@import "./utils/spacing.util.css";
-@import "./utils/stack.util.css";
-@import "./utils/transforms.util.css";
-@import "./utils/typography.util.css";
+@import 'utils/animations.util.css';
+@import 'utils/appearance.util.css';
+@import 'utils/borders.util.css';
+@import 'utils/components.util.css';
+@import 'utils/cursor.util.css';
+@import 'utils/dimensions.util.css';
+@import 'utils/global.util.css';
+@import 'utils/layout.util.css';
+@import 'utils/position.util.css';
+@import 'utils/spacing.util.css';
+@import 'utils/stack.util.css';
+@import 'utils/transforms.util.css';
+@import 'utils/typography.util.css';

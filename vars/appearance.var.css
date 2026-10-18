@@ -1,9 +1,9 @@
 :root {
   /* This represents the default color scheme. */
-  --primary:              #0d6be6;              
-  --primary-variant:      #0a56b8;           
-  --primary-fade:         #0d6be68e;         
-  --primary-translucent:  #0d6be654;
+  --primary:              #6464E6;
+  --primary-variant:      #4A4AC0; 
+  --primary-fade:         #6464e699; 
+  --primary-translucent:  #6464E64D;
   --info:                 #0f9af0;
   --success:              #00aa74;
   --warning:              #ffa552;
@@ -16,7 +16,7 @@
   --hungry:               #ef3e36;
   --love:                 #ed4d62;
   --voltura:              #4a4df5;
-  --code:                 #a0c2fd;
+  --code:                 #b0b0f5;
   --crimson:              #e60914;
   --white:                #ffffff;
   --black:                #000000;
@@ -71,35 +71,35 @@
   --wheat:                #f5deb3;
   
   /* Enables a light-themed visual style for the interface */
-  --default-light:         #f5f5f5;
+  --default-light:         #f7f7f7;
   --card-light:            #ffffff;
   --heading-light:         #001b3b;
   --title-light:           #131313;
   --subtitle-light:        #4b4b4b;
-  --description-light:     #2f2f2f;
+  --description-light:     #757575;
   --placeholder-light:     #777777;
   --border-light:          #e5e5e5;
   --hover-light:           #d8d8d8;
   --receiver-light:        #ededed;
   --icon-light:            #2c2c2c;
-  --disabled-light:        #e2e2e2;
+  --disabled-light:        #e1e1e1;
   --skeleton-light:        #d8d8d8;
   --skeleton-loader-light: #e7e7e7;
   --ripple-light:          #00000033;
 
   /* Enables a dark-themed visual style for the interface */
-  --default-dark:         #090b0e;
-  --card-dark:            #1a1d23;
+  --default-dark:         #121212;
+  --card-dark:            #1e1e1e;
   --heading-dark:         #e6e6e6;
   --title-dark:           #f7f6f6;
-  --subtitle-dark:        #e4e4e4;
+  --subtitle-dark:        #bcbcbc;
   --description-dark:     #c4c4c4;
   --placeholder-dark:     #6e6e6e;
   --border-dark:          #23232e;
   --hover-dark:           #171a1f;
   --receiver-dark:        #181b20;
   --icon-dark:            #f2f2f2;
-  --disabled-dark:        #17181d;
+  --disabled-dark:        #26282b;
   --skeleton-dark:        #1b1c22;
   --skeleton-loader-dark: #23262b;
   --ripple-dark:          #9eb2d926;
@@ -108,18 +108,18 @@
 /* This will only apply when the user chooses a light color scheme. */
 @media (prefers-color-scheme: light) {
   :root {
-    --default-adaptive:         #f5f5f5;
+    --default-adaptive:         #f7f7f7;
     --card-adaptive:            #ffffff;
     --heading-adaptive:         #001b3b;
     --title-adaptive:           #131313;
     --subtitle-adaptive:        #4b4b4b;
-    --description-adaptive:     #2f2f2f;
+    --description-adaptive:     #757575;
     --placeholder-adaptive:     #777777;
     --border-adaptive:          #e5e5e5;
     --hover-adaptive:           #d8d8d8;
     --receiver-adaptive:        #ededed;
     --icon-adaptive:            #2c2c2c;
-    --disabled-adaptive:        #e2e2e2;
+    --disabled-adaptive:        #e1e1e1;
     --skeleton-adaptive:        #d8d8d8;
     --skeleton-loader-adaptive: #e7e7e7;
     --ripple-adaptive:          #00000033;
@@ -129,20 +129,20 @@
 /* This will only apply when the user chooses a dark color scheme. */
 @media (prefers-color-scheme: dark) {
   :root {
-    --default-adaptive:         #090b0e;
-    --card-adaptive:            #1c2026;
+    --default-adaptive:         #121212;
+    --card-adaptive:            #1e1e1e;
     --heading-adaptive:         #e6e6e6;
     --title-adaptive:           #f7f6f6;
     --subtitle-adaptive:        #e4e4e4;
-    --description-adaptive:     #c4c4c4;
+    --description-adaptive:     #bcbcbc;
     --placeholder-adaptive:     #6e6e6e;
     --border-adaptive:          #23232e;
     --hover-adaptive:           #24252f;
     --receiver-adaptive:        #181b20;
     --icon-adaptive:            #f2f2f2;
-    --disabled-adaptive:        #17181d;
-    --skeleton-adaptive:        #272832;
-    --skeleton-loader-adaptive: #2d3137;
+    --disabled-adaptive:        #26282b;
+    --skeleton-adaptive:        #3b3b3b;
+    --skeleton-loader-adaptive: #4a4a4a;
     --ripple-adaptive:          #9eb2d926;
   }
 }

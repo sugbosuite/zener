@@ -1,15 +1,15 @@
 {
-  "name": "sugbocss",
-  "version": "0.0.6",
-  "description": "Sugbo CSS combines intuitive developer experience with sophisticated design, helping creators deliver striking, reliable, high-impact interfaces.",
-  "main": "min/sugbo.min.css",
-  "style": "min/sugbo.min.css",
+  "name": "@sugbosuite/zener",
+  "version": "0.0.1",
+  "description": "Zener blends an intuitive developer experience with refined aesthetics, giving creators the power to ship seamless, enterprise-grade interfaces.",
+  "main": "min/zener.min.css",
+  "style": "min/zener.min.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sugbosuite/sugbocss.git"
+    "url": "git+https://github.com/sugbosuite/zener.git"
   },
   "keywords": [
-    "sugbocss",
+    "zener",
     "css",
     "ui",
     "components",
@@ -26,16 +26,16 @@
   "author": "Allen Charls Casul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sugbosuite/sugbocss/issues"
+    "url": "https://github.com/sugbosuite/zener/issues"
   },
-  "homepage": "https://github.com/sugbosuite/sugbocss#readme",
+  "homepage": "https://github.com/sugbosuite/zener#readme",
   "files": [
     "min",
     "utils",
     "vars",
     "LICENSE",
     "README.md",
-    "sugbo.css",
+    "zener.css",
     "tokens.css"
   ]
 }
