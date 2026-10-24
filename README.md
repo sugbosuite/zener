@@ -2,8 +2,8 @@
 
 Zener adds elegance and personality to your toolkit. Its playful, developer‑friendly components make everything from simple pages to complex apps look polished and refined.
 
-![NPM](https://img.shields.io/npm/v/zener?color=e60914)
-![NPM](https://img.shields.io/npm/dw/zener?color=%23ef3e36)
+![NPM](https://img.shields.io/npm/v/@sugbosuite/zener?color=e60914)
+![NPM](https://img.shields.io/npm/dw/@sugbosuite/zener?color=%23ef3e36)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/sugbosuite/zener/badge)
 ![Github](https://img.shields.io/github/license/sugbosuite/zener)
 ![Github](https://img.shields.io/github/contributors/sugbosuite/zener?color=%234a4df5)
