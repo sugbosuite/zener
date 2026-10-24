@@ -1,7 +1,7 @@
 {
   "name": "@sugbosuite/zener",
   "version": "0.0.2",
-  "description": "Zener blends an intuitive developer experience with refined aesthetics, giving creators the power to ship seamless, enterprise-grade interfaces.",
+  "description": "Zener is a developer-first UI framework combining expressive design with an intuitive developer experience for modern UI systems.",
   "main": "min/zener.min.css",
   "style": "min/zener.min.css",
   "repository": {
