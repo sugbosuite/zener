@@ -9,6 +9,8 @@ Zener adds elegance and personality to your toolkit. Its playful, developer‑fr
 ![Github](https://img.shields.io/github/contributors/sugbosuite/zener?color=%234a4df5)
 ![Github](https://img.shields.io/github/stars/sugbosuite/zener)
 
+<img src="https://cdn.jsdelivr.net/gh/sugbosuite/zener@HEAD/docs/img/zener.jpg" style="max-width:100%;" width="600">
+
 ## Installation
 
 ### NPM
